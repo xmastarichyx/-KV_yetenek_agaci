@@ -1,0 +1,13 @@
+C:\Users\mastarichy\Desktop\İKV_yetenek_agaci\İKV_yetenek_agaci\bin\Release\İKV_yetenek_agaci.exe.config
+C:\Users\mastarichy\Desktop\İKV_yetenek_agaci\İKV_yetenek_agaci\bin\Release\İKV_yetenek_agaci.exe
+C:\Users\mastarichy\Desktop\İKV_yetenek_agaci\İKV_yetenek_agaci\bin\Release\İKV_yetenek_agaci.pdb
+C:\Users\mastarichy\Desktop\İKV_yetenek_agaci\İKV_yetenek_agaci\obj\Release\İKV_yetenek_agaci.csproj.AssemblyReference.cache
+C:\Users\mastarichy\Desktop\İKV_yetenek_agaci\İKV_yetenek_agaci\obj\Release\İKV_yetenek_agaci.buyucu1.resources
+C:\Users\mastarichy\Desktop\İKV_yetenek_agaci\İKV_yetenek_agaci\obj\Release\İKV_yetenek_agaci.envanter.resources
+C:\Users\mastarichy\Desktop\İKV_yetenek_agaci\İKV_yetenek_agaci\obj\Release\İKV_yetenek_agaci.Form1.resources
+C:\Users\mastarichy\Desktop\İKV_yetenek_agaci\İKV_yetenek_agaci\obj\Release\İKV_yetenek_agaci.Properties.Resources.resources
+C:\Users\mastarichy\Desktop\İKV_yetenek_agaci\İKV_yetenek_agaci\obj\Release\İKV_yetenek_agaci.savasci1.resources
+C:\Users\mastarichy\Desktop\İKV_yetenek_agaci\İKV_yetenek_agaci\obj\Release\İKV_yetenek_agaci.csproj.GenerateResource.cache
+C:\Users\mastarichy\Desktop\İKV_yetenek_agaci\İKV_yetenek_agaci\obj\Release\İKV_yetenek_agaci.csproj.CoreCompileInputs.cache
+C:\Users\mastarichy\Desktop\İKV_yetenek_agaci\İKV_yetenek_agaci\obj\Release\İKV_yetenek_agaci.exe
+C:\Users\mastarichy\Desktop\İKV_yetenek_agaci\İKV_yetenek_agaci\obj\Release\İKV_yetenek_agaci.pdb
